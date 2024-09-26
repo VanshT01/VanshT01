@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VanshT01
+- 👋 Hi, I’m Vansh Talreja!
 - 👀 I’m interested in programming, cooking, gaming, and robotics.
 - 🌱 I’m currently a sophomore in Computer Science at the University of Massachusetts, Amherst.
 💞️ I’m looking to collaborate on projects related to game and web development and data science.
