@@ -9,7 +9,7 @@ I’m a **Junior studying Computer Science at the University of Massachusetts Am
 - 💻 Interested in **software engineering, full-stack development, and systems**
 - 🚀 Experienced with **Next.js, TypeScript, Python, C++, cloud platforms, and APIs**
 - 🧠 Enjoy working on **data-driven applications, scalable backend systems, and ML-powered tools**
-- 🍳 Love cooking, 🎮 gaming, and 🤖 robotics outside of class
+- 🍳 Love cooking, 🎮 gaming, and ⚽ soccer outside of class
 
 ---
 
@@ -18,7 +18,7 @@ I’m a **Junior studying Computer Science at the University of Massachusetts Am
 - Full-stack web applications (Next.js, React, REST APIs)
 - Backend & systems-oriented projects
 - Data, ML, and applied AI projects
-- Internship-ready, production-focused builds
+- Developer tooling, automation, and open-source contributions
 
 ---
 
@@ -35,8 +35,8 @@ If it’s challenging and real-world, I’m interested.
 
 ## 📫 Contact
 
-- 📧 Email: **vtalreja798@gmail.com**
-- 💼 GitHub: **https://github.com/VanshT01**
+- 📧 Email: **vanshtalreja798@gmail.com**
+- 💼 LinkedIn: **https://www.linkedin.com/in/vansh-talreja-271529213/**
 
 ---
 
